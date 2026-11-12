@@ -1,5 +1,9 @@
 # Projet Python
-
+_______________________
+|Nom: Muteba Wa Muteba |
+|Prénom: Israël |
+|Classe L2(CS)|
+_______________
 <p align="center">
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Wikimania2023_Animated_Sticker_Flower_01.gif" width="180" alt="Animation de fleur">
 </p>
