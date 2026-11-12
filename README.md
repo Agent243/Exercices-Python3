@@ -178,7 +178,7 @@ WhatsApp: +221710080086
 ---
 
 <p align="center">
-  🌸 <b>Merci de visiter mon projet !</b> 🌸
+   <b>Merci de visiter mon projet !</b> 
   <br>
   <i>Apprendre, expérimenter et créer avec Python.</i>
 </p>
