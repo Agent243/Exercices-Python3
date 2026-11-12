@@ -51,7 +51,7 @@ Chaque utilisateur peut créer une fleur différente en modifiant les paramètre
 |---|---|
 | Python | Langage de programmation |
 | Turtle | Création du dessin |
-| VS Code | Écriture et exécution du code |
+| VS Code/Terminal | Écriture et exécution du code |
 
 ## 🚀 4. Installation et exécution
 
